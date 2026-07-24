@@ -2,8 +2,35 @@
     "default_route_id_enabled": true,
     "use_route_short_name_for_route_id": true,
     "default_route_long_name_enabled": true,
+    "route_colors_ignored": [
+        "000000"
+    ],
+    "route_colors": [
+        {
+            "route_short_name": "1",
+            "color": "FF7F00"
+        }
+        ,{
+            "route_short_name": "2",
+            "color": "7F00FF"
+        },
+        {
+            "route_short_name": "3",
+            "color": "00B82E"
+        },
+        {
+            "route_short_name": "4",
+            "color": "00Bfff"
+        }
+    ],
     "direction_finder_enabled": true,
     "trip_headsign_remove_via": true,
-    "trip_headsign_cleaners": [],
+    "trip_headsign_cleaners": [
+        {
+            "regex": "^\\d+\\s+\\w+(\\s+[12])?\\s*",
+            "ignore_case": true,
+            "comment": "remove starting with 'RSN RLN 1|2 '"
+        }
+    ],
     "stop_name_cleaners": []
 }

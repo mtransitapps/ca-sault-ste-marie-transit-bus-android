@@ -311,6 +311,9 @@
 370,'','Wellington St E @ McGregor Ave',46.50934,-84.30912,0,50764
 371,'','Wellington St E @ Pine St',46.50933,-84.30690,0,50765
 372,'','Wellington St E @ Elizabeth St',46.50934,-84.30392,0,50766
+373,'','Skate Park',46.50935,-84.30130,0,50767
+374,'','Wellington St E @ Churchill Blvd',46.50936,-84.29887,0,50768
+375,'','Wellington St East @ Lk St',46.50939,-84.29599,0,50769
 376,'','Wellington St E @ Retta St',46.50939,-84.29358,0,50770
 377,'','Wellington St E @ Glenholme Dr',46.50940,-84.29197,0,50771
 378,'','1601 Wellington Street East',46.50941,-84.28921,0,50772
@@ -320,7 +323,7 @@
 387,'','Boundary Rd @ South Mkt St',46.51672,-84.27072,0,50802
 388,'','South Mkt St @ Chartwell Dr',46.51722,-84.27268,0,50803
 389,'','South Mkt St @ Cambridge Pl',46.51837,-84.27483,0,50804
-390,'','Giant Tiger',46.52049,-84.27617,0,50826
+390,'','Giant Tiger',46.51971,-84.27545,0,50826
 408,'','Chambers Ave @ Melville Rd',46.52246,-84.25787,0,51516
 409,'','Chambers Ave @ Glenwood Ave',46.52148,-84.25887,0,51517
 410,'','Chambers Ave @ Ross St',46.52018,-84.26019,0,51539
@@ -344,6 +347,12 @@
 431,'','Wellington St E @ Kohler St',46.50947,-84.31596,0,51602
 432,'','Pim St @ Wellington St East',46.50877,-84.32127,0,51603
 433,'','Pim Street @ Herrick Street',46.50722,-84.32268,0,51604
+434,'','Brock St @ Queen St East',46.50908,-84.33024,0,51605
+435,'','Russ Ramsey Way @ Bay St',46.50794,-84.33217,0,51606
+436,'','70 Foster Drive',46.50908,-84.33528,0,51607
+437,'','Foster Dr @ Ste Marys River Dr',46.51007,-84.33607,0,51608
+438,'','Station Mall Rear Entrance',46.51162,-84.33986,0,51609
+439,'','Station Mall',46.51402,-84.34224,0,51610
 441,'','Bruce St @ Wellington St E',46.51567,-84.33238,0,51633
 443,'','Bruce St @ Grosvenor Ave',46.51779,-84.32903,0,51635
 444,'','Bruce St @ Salisbury Ave',46.51941,-84.32646,0,51636
@@ -615,6 +624,18 @@
 840,'','Holy Cow''s Icecream',46.52226,-84.28122,0,55476
 841,'','831 McNabb',46.52194,-84.28195,0,55477
 842,'','Northern Community Centre',46.54044,-84.38215,0,55478
+843,'','233 Lake Street',46.50804,-84.29551,0,55479
+844,'','Lake Street @ Mark Street',46.50509,-84.29549,0,55480
+845,'','131 Anna Street',46.52771,-84.27094,0,55481
+846,'','Anna Street @ Jean Street',46.52983,-84.27038,0,55482
+847,'','Lawson Avenue @ Anna Street',46.53087,-84.27099,0,55483
+848,'','Laweson Ave @ Wiber St',46.53090,-84.27313,0,55484
+849,'','Manitou Dr @ Lawson Ave',46.53041,-84.27561,0,55485
+850,'','Manitou Drive @ Amy Avenue',46.52883,-84.27560,0,55507
+851,'','Manitou Dr @ Greene St',46.52712,-84.27552,0,55508
+852,'','2nd Line E @ Sackville Rd',46.53803,-84.33024,0,55509
+853,'','4th Line East',46.56679,-84.34764,0,55510
+854,'','Pine St @ Northern Ave',46.53432,-84.30767,0,55511
 100440,'','Bruce Street @ Grace Street',46.51483,-84.33371,0,1600657
 100478,'','Pine St @ Chlebus St',46.51941,-84.30737,0,1603788
 100479,'','Food Basics Pine Street',46.52331,-84.30736,0,1603819

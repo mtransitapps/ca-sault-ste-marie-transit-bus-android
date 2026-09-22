@@ -11,7 +11,6 @@
 11,'','Conmee Avenue @ John Street',46.53178,-84.34265,0,47696
 12,'','Conmee Ave @ Parliament St',46.53199,-84.34449,0,47697
 13,'','Conmee Ave @ Northland Rd',46.53214,-84.34579,0,47698
-14,'','Conmee Ave @ Lennox Ave',46.53236,-84.34777,0,47699
 15,'','Conmee Ave @ Shafer Ave',46.53250,-84.34904,0,47700
 16,'','Henrietta Ave @ Wellington St W',46.53405,-84.35056,0,47701
 17,'','Henrietta Ave @ Patrick St',46.53398,-84.35339,0,47702
@@ -78,7 +77,6 @@
 97,'','Terminal',46.51562,-84.33750,0,47950
 98,'','Aurora''s Hilltop',46.53871,-84.31277,0,47951
 99,'','Walmart',46.54041,-84.31616,0,47952
-100,'','Giovanni''s',46.54238,-84.31898,0,48625
 101,'','Best Buy',46.54365,-84.31903,0,48626
 102,'','Great Northern Rd @ Terrance Ave',46.54547,-84.31913,0,48627
 104,'','Great Northern Rd @ Killarney Rd',46.54711,-84.31917,0,48629
@@ -136,7 +134,6 @@
 168,'','Henrietta Ave @ Patrick St',46.53387,-84.35270,0,48819
 169,'','Henrietta Ave @ Wellington St W',46.53393,-84.35047,0,48820
 170,'','Conmee Ave @ Shafer Ave',46.53232,-84.34855,0,48842
-171,'','Conmee Ave @ Lennox Ave',46.53221,-84.34750,0,48843
 172,'','Conmee Ave @ Northland Rd',46.53198,-84.34554,0,48844
 173,'','Conmee Ave @ Parliament St',46.53179,-84.34398,0,48845
 174,'','Conmee Avenue @ John Street',46.53168,-84.34277,0,48846
@@ -305,7 +302,6 @@
 363,'','Albert St East @ Spg St',46.51091,-84.32972,0,50736
 364,'','Algoma District Public S Board Office',46.50922,-84.32749,0,50737
 366,'','Church St @ Herrick St',46.50704,-84.32083,0,50739
-367,'','Church St @ Wellington St E',46.50902,-84.31945,0,50740
 368,'','Wellington St E @ Kohler St',46.50931,-84.31658,0,50741
 369,'','Wellington St E @ Upton Rd',46.50934,-84.31064,0,50742
 370,'','Wellington St E @ McGregor Ave',46.50934,-84.30912,0,50764
@@ -375,7 +371,6 @@
 463,'','Pine St @ MacDonald Ave',46.51491,-84.30756,0,51697
 464,'','Pine Street Armories',46.51210,-84.30755,0,51698
 465,'','John Rhodes CC',46.50689,-84.30260,0,51699
-466,'','Elizabeth St @ Queen St E',46.50505,-84.30358,0,51700
 467,'','Lk St @ McMeekan St',46.50423,-84.29526,0,51701
 468,'','Lake Street @ Mark Street',46.50587,-84.29529,0,51702
 469,'','Lake Street @ Harten Street',46.50765,-84.29530,0,51703
@@ -536,6 +531,7 @@
 671,'','Public Library',46.50632,-84.33004,0,53648
 673,'','727 North',46.54116,-84.33857,0,53650
 674,'','725 North',46.54025,-84.33563,0,53651
+675,'','Pointe Des Chenes Park',46.47364,-84.52143,0,53652
 676,'','Temp 1',46.49958,-84.28319,0,53653
 677,'','Temp 2',46.50454,-84.28330,0,53654
 733,'','9 Sackville Road',46.53634,-84.32951,0,54487
@@ -547,10 +543,7 @@
 756,'','McNabb Street @ Black Road',46.52175,-84.28820,0,54552
 757,'','50 Adeline Avenue',46.52550,-84.27086,0,54553
 758,'','Adeline Ave @ Anna St',46.52661,-84.27191,0,54554
-759,'','Anna Street @ Wiber Street',46.52611,-84.27335,0,54555
-760,'','Anna Street @ Manitou Drive',46.52609,-84.27418,0,54577
 761,'','23 Manitou Drive',46.52401,-84.27616,0,54578
-762,'','McNabb Street @ Black Road',46.52201,-84.28820,0,54579
 763,'','McNabb Street @ Lake Street',46.52198,-84.29464,0,54580
 765,'','78 Niagra Drive',46.54202,-84.33067,0,54582
 766,'','Niagra Dr @ LaSalle Court',46.54249,-84.33266,0,54583

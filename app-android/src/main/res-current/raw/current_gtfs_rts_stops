@@ -348,9 +348,9 @@
 436,'','70 Foster Drive',46.50908,-84.33528,0,51607
 437,'','Foster Dr @ Ste Marys River Dr',46.51007,-84.33607,0,51608
 438,'','Station Mall Rear Entrance',46.51162,-84.33986,0,51609
-439,'','Station Mall',46.51402,-84.34224,0,51610
+439,'','Saint Mary''s River Drive',46.51402,-84.34224,0,51610
 441,'','Bruce St @ Wellington St E',46.51567,-84.33238,0,51633
-443,'','Bruce St @ Grosvenor Ave',46.51779,-84.32903,0,51635
+443,'','Bruce St @ Grosvenor Ave',46.51719,-84.32997,0,51635
 444,'','Bruce St @ Salisbury Ave',46.51941,-84.32646,0,51636
 445,'','Bruce St @ Gladstone Ave',46.51992,-84.32415,0,51637
 446,'','Gladstone Ave @ Bruce St',46.52032,-84.32342,0,51638
@@ -452,7 +452,7 @@
 562,'','Peoples Rd @ 3rd Line East',46.55149,-84.35122,0,52657
 570,'','28 4th Line East',46.56692,-84.34744,0,52686
 571,'','People''s Rd @ 4th Line East',46.56621,-84.35226,0,52687
-572,'','1475 Peoples Road',46.56242,-84.35200,0,52688
+572,'','1373 Peoples Road',46.55888,-84.35178,0,52688
 573,'','1419 Peoples Road',46.56041,-84.35189,0,52689
 574,'','Peoples Road @ Kent Cres',46.55767,-84.35175,0,52690
 575,'','Peoples Rd @ Tallack Boulevaroad',46.55618,-84.35165,0,52691
@@ -505,7 +505,7 @@
 630,'','Northern Heights',46.53035,-84.33005,0,53523
 631,'','Grand Blvd @ Grandmont Cres',46.52804,-84.33031,0,53524
 632,'','Grand Blvd @ Grandriver Cres',46.52645,-84.33032,0,53525
-633,'','Walnut St @ Pardee Ave',46.52316,-84.33657,0,53526
+633,'','Walnut St @ Pardee Ave',46.52275,-84.33655,0,53526
 634,'','Wilcox Ave @ Walnut St',46.52123,-84.33613,0,53527
 635,'','Wilcox Ave @ Spruce St',46.52126,-84.33482,0,53528
 636,'','Wilcox Ave @ Maple St',46.52129,-84.33361,0,53529
@@ -559,7 +559,7 @@
 777,'','63 Chippewa Street',46.54500,-84.38595,0,54615
 778,'','Chippewa St @ Goulais Ave',46.54505,-84.38254,0,54616
 779,'','Korah Colleigate & Northern Community Cantre',46.54139,-84.38220,0,54617
-780,'','Goulais Ave @ St Basil''s Dr',46.53790,-84.38202,0,54639
+780,'','Goulais Ave @ St Basil''s Dr',46.53818,-84.38203,0,54639
 781,'','17 Niagra Drive',46.54244,-84.33332,0,54640
 782,'','Niargra Dr @ Superior Dr',46.54198,-84.33096,0,54641
 783,'','Water Tower Inn',46.53628,-84.31865,0,54642
@@ -569,7 +569,7 @@
 787,'','4th Line E @ Old Goulias Bay Rd',46.56711,-84.34100,0,54646
 789,'','Carmen''s Way @ Cathcart St',46.52173,-84.35163,0,54648
 791,'','People''s Rd @ Mayfair Ave',46.55431,-84.35135,0,54671
-792,'','People''s Rd @ Tallack Blvd',46.55614,-84.35146,0,54672
+792,'','People''s Rd @ Tallack Blvd',46.55633,-84.35148,0,54672
 793,'','People''s Road @ Kent Cres',46.55768,-84.35153,0,54673
 794,'','1386 People''s Road',46.55905,-84.35162,0,54674
 795,'','Greenwood Cemetary People''s Rd Entrance',46.56328,-84.35185,0,54675
@@ -593,7 +593,7 @@
 813,'','435 Chambers Avenue',46.52224,-84.25783,0,55386
 814,'','Chambers Ave @ Dacey Rd',46.52331,-84.25677,0,55387
 815,'','Dacey Road @ Sinclair Drive',46.52326,-84.25605,0,55388
-816,'','147 Dacey Road',46.52175,-84.25288,0,55389
+816,'','159 Dacey Road',46.52212,-84.25362,0,55389
 817,'','Breton Road @ Pine Street',46.51063,-84.30652,0,55390
 818,'','Breton Rd @ Elizabeth St',46.51064,-84.30404,0,55391
 819,'','Breton Road @ Boston Avenue',46.51108,-84.30080,0,55392
@@ -604,10 +604,10 @@
 824,'','307 Shannon Road',46.50613,-84.28364,0,55418
 825,'','Shannon Rd @ Florwin Dr',46.50247,-84.28362,0,55419
 826,'','Shannon Rd @ Valhalla Pl',46.49948,-84.28306,0,55420
-827,'','Shannon Rd @ Margaret St',46.50244,-84.28329,0,55421
+827,'','194 Shannon Road',46.50192,-84.28337,0,55421
 828,'','306 Shannon Road',46.50613,-84.28342,0,55422
 829,'','Pine St @ Northern Ave',46.53371,-84.30735,0,55423
-830,'','486 Great Northern Road',46.54124,-84.31894,0,55445
+830,'','Walmart',46.54124,-84.31894,0,55445
 831,'','Allen Side Rd @ Ransome Dr',46.53050,-84.40242,0,55446
 833,'','Lyon''s Club',46.50713,-84.33081,0,55448
 834,'','170 East Street',46.50886,-84.32596,0,55449
